@@ -9,5 +9,5 @@ After that just go to lib> service> network_service and change the api key with 
 
 ## App UI
 
-<img src="screenshots/ss01.jpeg" width="300" height="500"> <img src="screenshots/ss02.jpeg" width="300" height="500"> <img src="screenshots/ss03.jpeg" width="300" height="500"> <img src="screenshots/ss04.jpeg" width="300" height="500"> <img src="screenshots/ss05.jpeg" width="300" height="500">
+<img src="screenshots/ss01.png" width="300" height="500"> <img src="screenshots/ss02.png" width="300" height="500"> <img src="screenshots/ss03.png" width="300" height="500"> <img src="screenshots/ss04.png" width="300" height="500"> <img src="screenshots/ss05.png" width="300" height="500">
 
